@@ -22,3 +22,7 @@ ride成功打开
  
 测试环境是否配置成功
 命令行进入解压目录中的testenv 运行 robot testenv.robot 
+
+敏捷项目管理（Scrum）和敏捷管理工具，测试工具学习请关注
+时牧社区
+![](https://avatars1.githubusercontent.com/u/32387616?v=4&s=460)
